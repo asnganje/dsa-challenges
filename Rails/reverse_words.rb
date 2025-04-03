@@ -3,7 +3,7 @@
 
 class Controller
   def reverse_str(str)
-    return false if str.size == 0
+    return false if str.empty?
     return str if str.size == 1
     splitted = str.downcase.split(' ')
     result=[]
@@ -15,4 +15,4 @@ class Controller
 end
 
 myClass = Controller.new
-print myClass.reverse_str("Hello world from Rails")
+print myClass.reverse_str("")
