@@ -1,17 +1,3 @@
-### 3. **Search for a Word in a File**
-   - **Problem**: Write a Ruby method that searches for a word in a file and returns all lines that contain the word.
-   - **Example**:  
-     Input:  
-     File content:  
-     ```
-     This is line 1
-     This is line 2
-     This is line 3
-     ```  
-     Word to search: `"line 2"`  
-     Output:  
-     `"This is line 2"`
-
 ### 4. **Copy Contents of One File to Another**
    - **Problem**: Write a Ruby method that copies the contents of one file to another file. If the target file already exists, it should be overwritten.
    - **Example**:  
