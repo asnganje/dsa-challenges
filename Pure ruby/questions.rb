@@ -1,10 +1,4 @@
 
-### **2. Find the Missing Number in an Array**
-   - **Problem**: Given an array of `n-1` integers in the range from `1` to `n`, find the missing number.
-   - **Example**:  
-     Input: `[1, 2, 4, 6, 3, 7, 8]`  
-     Output: `5`
-
 ### **3. Fibonacci Sequence (Memoized)**
    - **Problem**: Write a function that computes the nth number in the Fibonacci sequence using dynamic programming (memoization).
    - **Example**:  
