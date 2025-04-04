@@ -1,17 +1,3 @@
-
-### **5. Find the First Non-Repeated Character**
-   - **Problem**: Write a Ruby function that returns the first non-repeated character in a string.
-   - **Example**:  
-     Input: `"swiss"`  
-     Output: `"w"`
-
-### **6. Two Sum Problem**
-   - **Problem**: Given an array of integers, return indices of the two numbers such that they add up to a specific target.
-   - **Example**:  
-     Input: `nums = [2, 7, 11, 15], target = 9`  
-     Output: `[0, 1]`  
-     (Because nums[0] + nums[1] == 9)
-
 ### **7. Anagram Check**
    - **Problem**: Write a function that checks if two strings are anagrams of each other.
    - **Example**:  
