@@ -1,10 +1,3 @@
-Here are some **pure Ruby interview problems** focused on file handling and working with files, which are common in both Ruby and Ruby on Rails contexts:
-
-### 1. **Count Lines in a File**
-   - **Problem**: Write a Ruby method that takes a file path as input and returns the number of lines in the file.
-   - **Example**:  
-     Input: `"file.txt"` (a file with 5 lines)  
-     Output: `5`
 
 ### 2. **Read a File and Print its Contents in Reverse Order**
    - **Problem**: Write a Ruby method that reads the contents of a file and prints it in reverse order (line by line).
