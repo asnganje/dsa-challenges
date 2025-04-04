@@ -1,12 +1,4 @@
 
-### **4. Palindrome Check**
-   - **Problem**: Write a function that checks whether a string is a palindrome (reads the same backward as forward).
-   - **Example**:  
-     Input: `"racecar"`  
-     Output: `true`  
-     Input: `"hello"`  
-     Output: `false`
-
 ### **5. Find the First Non-Repeated Character**
    - **Problem**: Write a Ruby function that returns the first non-repeated character in a string.
    - **Example**:  
