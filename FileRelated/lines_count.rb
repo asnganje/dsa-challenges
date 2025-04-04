@@ -8,6 +8,7 @@
     count = 0
     File.foreach(fl) do |line|
       count+=1
+      # puts line
     end
     count
   end
