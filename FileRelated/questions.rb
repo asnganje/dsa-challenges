@@ -1,15 +1,3 @@
-### 4. **Copy Contents of One File to Another**
-   - **Problem**: Write a Ruby method that copies the contents of one file to another file. If the target file already exists, it should be overwritten.
-   - **Example**:  
-     Input:  
-     Source file content:  
-     ```
-     Hello, world!
-     This is a test.
-     ```  
-     Output:  
-     Target file should contain the same content as the source file.
-
 ### 5. **Count the Occurrences of a Word in a File**
    - **Problem**: Write a Ruby method that counts the number of occurrences of a word in a given file.
    - **Example**:  
