@@ -1,11 +1,3 @@
-
-
-### **8. Find All Pairs That Sum to a Target**
-   - **Problem**: Given an array of integers, return all unique pairs of integers that add up to a target sum.
-   - **Example**:  
-     Input: `nums = [1, 2, 3, 4, 5], target = 5`  
-     Output: `[[1, 4], [2, 3]]`
-
 ### **9. Merge Sorted Arrays**
    - **Problem**: Given two sorted arrays, merge them into a single sorted array.
    - **Example**:  
