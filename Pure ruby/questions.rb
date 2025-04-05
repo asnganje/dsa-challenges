@@ -1,10 +1,4 @@
-### **7. Anagram Check**
-   - **Problem**: Write a function that checks if two strings are anagrams of each other.
-   - **Example**:  
-     Input: `"listen", "silent"`  
-     Output: `true`  
-     Input: `"hello", "world"`  
-     Output: `false`
+
 
 ### **8. Find All Pairs That Sum to a Target**
    - **Problem**: Given an array of integers, return all unique pairs of integers that add up to a target sum.
