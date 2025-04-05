@@ -5,9 +5,11 @@ def soln(arr)
   min_diff = Float::INFINITY
   (0...(arr.length-1)).each do |i|
     left_sum += arr[i]
-    diff = total - left_sum
+    right_sum = total - left_sum
+    diff = (left_sum-right_sum).abs
     min_diff = [min_diff, diff].min
   end
-  min_diff
+  arr.index(min_diff)
 end
-p soln([1,2,3,4])
+# p soln([1,2,3,4])
+p soln([3,1,2,4,3])
