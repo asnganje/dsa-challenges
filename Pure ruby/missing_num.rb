@@ -31,3 +31,13 @@ puts missing_num([1, 2, 4, 6, 3, 7, 8])
 puts missing_num([2, 3,1,5])
   # Input: `[1, 2, 4, 6, 3, 7, 8]`  
   # Output: `5`
+
+
+  ##advanced solution ###
+  def solution(a)
+    # Implement your solution here
+    sum = a.sum
+    max=a.size+1
+    expected_sum = (max*(max+1))/2
+    expected_sum-sum
+  end
