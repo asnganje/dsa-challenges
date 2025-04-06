@@ -1,9 +1,3 @@
-### 13. **Change File Extension**
-   - **Problem**: Write a Ruby method that changes the extension of a given file (e.g., from `.txt` to `.md`).
-   - **Example**:  
-     Input: `"file.txt"`  
-     Output: `"file.md"`
-
 ### 14. **Concatenate Files**
    - **Problem**: Write a Ruby method that takes an array of file paths and concatenates their contents into one single file.
    - **Example**:  
