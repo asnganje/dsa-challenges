@@ -1,15 +1,3 @@
-### 7. **Write to a File**
-   - **Problem**: Write a Ruby method that writes a list of strings to a file, one string per line.
-   - **Example**:  
-     Input:  
-     List: `["line 1", "line 2", "line 3"]`  
-     Output: The file `output.txt` should contain:  
-     ```
-     line 1
-     line 2
-     line 3
-     ```
-
 ### 8. **File Size**
    - **Problem**: Write a Ruby method that takes a file path as input and returns the size of the file in bytes.
    - **Example**:  
