@@ -1,9 +1,3 @@
-### 8. **File Size**
-   - **Problem**: Write a Ruby method that takes a file path as input and returns the size of the file in bytes.
-   - **Example**:  
-     Input: `"file.txt"`  
-     Output: `1024` (or whatever the size of the file is)
-
 ### 9. **Delete a File**
    - **Problem**: Write a Ruby method that deletes a file if it exists and prints a message confirming the deletion. If the file does not exist, print an error message.
    - **Example**:  
