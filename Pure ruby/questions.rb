@@ -1,9 +1,3 @@
-### **9. Merge Sorted Arrays**
-   - **Problem**: Given two sorted arrays, merge them into a single sorted array.
-   - **Example**:  
-     Input: `arr1 = [1, 3, 5], arr2 = [2, 4, 6]`  
-     Output: `[1, 2, 3, 4, 5, 6]`
-
 ### **10. Find the Longest Substring Without Repeating Characters**
    - **Problem**: Given a string, find the length of the longest substring without repeating characters.
    - **Example**:  
