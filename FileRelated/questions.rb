@@ -1,9 +1,3 @@
-### 11. **Find Largest File in a Directory**
-   - **Problem**: Write a Ruby method that takes a directory path and returns the largest file (by size) in the directory.
-   - **Example**:  
-     Input: `"./my_directory"`  
-     Output: `"largest_file.txt"` (if this file is the largest in the directory)
-
 ### 12. **Read a File Line by Line**
    - **Problem**: Write a Ruby method that reads a file and prints each line one by one.
    - **Example**:  
