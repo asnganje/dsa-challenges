@@ -1,26 +1,6 @@
 ##RE DO PROBLEM ## 
 LONGEST SUBSTRING
 
-### **11. Rotate Matrix**
-   - **Problem**: Rotate an `n x n` matrix 90 degrees clockwise.
-   - **Example**:  
-     Input:  
-     ```  
-     [
-       [1, 2, 3],
-       [4, 5, 6],
-       [7, 8, 9]
-     ]
-     ```  
-     Output:  
-     ```  
-     [
-       [7, 4, 1],
-       [8, 5, 2],
-       [9, 6, 3]
-     ]
-     ```
-
 ### **12. Find the Intersection of Two Arrays**
    - **Problem**: Given two arrays, find the intersection of these arrays (i.e., common elements).
    - **Example**:  
