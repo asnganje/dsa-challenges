@@ -8,4 +8,4 @@ def soln(prices)
   end
   max_profit
 end
-p soln([3,-2,5,-1])
+p soln([23171,21011,21123,21366,21013,21367])

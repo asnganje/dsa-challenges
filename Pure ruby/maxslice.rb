@@ -12,4 +12,4 @@ def soln(arr)
   max_slice_sum
 end
 
-p soln([3,-2,5,-1])
+p soln([23171,21011,21123,21366,21013,21367])
